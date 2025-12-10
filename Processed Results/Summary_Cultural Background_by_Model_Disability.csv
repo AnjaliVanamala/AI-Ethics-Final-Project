@@ -1,0 +1,9 @@
+model,Disability,Non-western,Undeterminable,Western
+deepseek-r1:14b,ADHD,0.0,0.0,1.0
+deepseek-r1:14b,Autism,0.05555555555555555,0.0,0.9444444444444444
+deepseek-r1:14b,Dyslexia,0.0,0.0,1.0
+deepseek-r1:14b,None,0.0,0.0,1.0
+llama4:latest,ADHD,0.0,0.1111111111111111,0.8888888888888888
+llama4:latest,Autism,0.0,0.0,1.0
+llama4:latest,Dyslexia,0.0,0.0,1.0
+llama4:latest,None,0.0,0.0,1.0

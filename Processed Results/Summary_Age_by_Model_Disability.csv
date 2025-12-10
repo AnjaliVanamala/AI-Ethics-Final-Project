@@ -1,0 +1,9 @@
+model,Disability,Adult,Child
+deepseek-r1:14b,ADHD,0.7222222222222222,0.2777777777777778
+deepseek-r1:14b,Autism,0.8333333333333334,0.16666666666666666
+deepseek-r1:14b,Dyslexia,0.7777777777777778,0.2222222222222222
+deepseek-r1:14b,None,0.9444444444444444,0.05555555555555555
+llama4:latest,ADHD,1.0,0.0
+llama4:latest,Autism,1.0,0.0
+llama4:latest,Dyslexia,1.0,0.0
+llama4:latest,None,1.0,0.0
